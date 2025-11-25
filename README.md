@@ -43,7 +43,9 @@ Part of a Deep Learning assignment for an MSc in AI & Data Science. A two-hidden
 
 ## Repo Outline
 - `notebooks/` – Colab/Jupyter notebook with full training and evaluation
-- `models/` – Saved Keras models (`.keras`) for each variant 
+- `models/` – Saved Keras models (`.keras`) for each variant
+- `sandal.png` – Custom sandal picture to test on non MNIST data
+- `LICENSE` – License
 - `README.md` – This file
 
 ---
